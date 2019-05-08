@@ -1,5 +1,5 @@
 ﻿<?php
 
-echo "Hello word !"
+echo "Hello word !(2)"
 
 ?>
