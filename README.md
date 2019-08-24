@@ -1,3 +1,3 @@
 # lab
 
-Validador simple de cupom promocional
+Validador simples de cupom promocional
